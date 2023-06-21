@@ -19,8 +19,6 @@
 
 <br>
 
-![Snake animation](https://github.com/LucasViega/LucasViega/blob/output/github-contribution-grid-snake.svg)
-
 ## 👀 I’m interested in:
         - 💻 programming;
         - 🎥 movies;
