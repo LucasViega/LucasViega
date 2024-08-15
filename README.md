@@ -27,5 +27,8 @@
         - ✈ travelling
 ## 🌱 I’m currently learning:
         - Python;
-        - C#
+        - C#;
+        - Google Cloud;
+        - Typebot;
+        - Docker
 ## 💞️ I’m looking to collaborate on technology
